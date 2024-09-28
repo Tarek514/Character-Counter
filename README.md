@@ -2,9 +2,9 @@
 
 This project combines two simple web-based applications: a **Digital Clock** and a **Character Counter**. The Digital Clock displays the current time in `HH:MM:SS` format, while the Character Counter counts the number of characters entered in a text area in real-time.
 
-## Demo
+## Live Site
 
-![Digital Clock and Character Counter](screenshot.png) <!-- Add a screenshot if you have one -->
+- [Live Site](https://tarek514.github.io/Character-Counter/) <!-- Add a screenshot if you have one -->
 
 ## Features
 
@@ -17,15 +17,4 @@ This project combines two simple web-based applications: a **Digital Clock** and
 - **CSS**: For styling the clock and character counter sections.
 - **JavaScript**: For the logic and functionality of the digital clock and character counter.
 
-## Getting Started
 
-### Prerequisites
-
-To run this project, you need a web browser (e.g., Chrome, Firefox, Edge) installed on your computer.
-
-### Installation
-
-1. Clone this repository or download the files to your local machine:
-   ```bash
-   git clone https://github.com/your-username/digital-clock-character-counter.git
-   ```
